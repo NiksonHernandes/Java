@@ -45,7 +45,7 @@ public class telaGenio extends javax.swing.JFrame {
         lblFrase.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         lblFrase.setText("Frase");
         lblFrase.setVerticalAlignment(javax.swing.SwingConstants.TOP);
-        getContentPane().add(lblFrase, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 120, 190, 80));
+        getContentPane().add(lblFrase, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 120, 190, 80));
 
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/imagem-balao-removebg-preview.png"))); // NOI18N
         jLabel2.setText("jLabel2");
