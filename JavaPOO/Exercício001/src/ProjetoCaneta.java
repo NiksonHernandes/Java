@@ -7,7 +7,7 @@ public class ProjetoCaneta {
 		c1.modelo = "Spider";
 		c1.ponta = 0.7f;
 		c1.tampa = false; 
-		c1.carga = 95;
+		c1.carga = 95; 
 		
 		c1.tampar();
 		c1.destampar();
