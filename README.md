@@ -11,7 +11,7 @@ Caso esteja procurando uma forma de desenvolver a programação básica e orient
 <li><a href="https://www.cursoemvideo.com/curso/java-poo/">Java POO [40 horas]</a></li>
 <br><br>
 
-E ai, sentiu dificuldade em acompanhar as aulas anteriores? Se sua resposta foi SIM, recomendo que acompanhe o <a target="_blank" href="https://www.cursoemvideo.com/curso/java-poo/">Curso de Algoritmos [40 Horas]</a>. 
+E ai, sentiu dificuldade em acompanhar as aulas anteriores? Se sua resposta foi SIM, recomendo que acompanhe o <a href="https://www.cursoemvideo.com/curso/java-poo/" target="_blank" rel="javapoo">Curso de Algoritmos [40 Horas]</a>. 
 <br>
 
 <i>A certificação dos cursos é paga. Qualquer dúvida, acesse: <a href="https://www.cursoemvideo.com/apoie/">Seja um Apoiador!</a></i><br> Divirta-se, pequeno gafanhoto!
