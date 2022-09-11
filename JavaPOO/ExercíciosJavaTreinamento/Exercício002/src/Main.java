@@ -12,5 +12,4 @@ public class Main {
 		n1.decrescente(40);
 
 	}
-
 }
