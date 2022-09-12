@@ -10,6 +10,5 @@ public class Main {
 		
 		n1.decrescente(4);
 		n1.decrescente(40);
-
 	}
 }

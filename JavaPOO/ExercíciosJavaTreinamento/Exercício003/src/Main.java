@@ -10,5 +10,4 @@ public class Main {
 		x1.somaImpares(30);
 		x1.multiPar(30);
 	}
-
 }
