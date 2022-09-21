@@ -15,3 +15,6 @@ E ai, sentiu dificuldade em acompanhar as aulas anteriores? Se sua resposta foi 
 <br>
 
 <i>A certificação dos cursos é paga. Qualquer dúvida acesse: <a href="https://www.cursoemvideo.com/apoie/">Seja um Apoiador!</a></i><br> Divirta-se, pequeno gafanhoto!
+<br><br>
+
+Site da Oracle com as bibliotecas do JAVA: https://docs.oracle.com/javase/8/docs/api/
