@@ -48,6 +48,7 @@ public class Program {
 		
 		//PERCORRER COM MAP 
 		Funcionario pos = list.stream().filter(x -> x.getId() == idIncrementa).findFirst().orElse(null);
+		//Os elementos x da minha list tal que o ID seja igual ao idIncrementa!
 			
 		//PERCORRENDO MANUALMENTE A LISTA 
 		//Integer pos = procuraPosicaoID(list, idIncrementa);
