@@ -12,7 +12,6 @@ public class Pedido {
 	//para formatação do date
 	private static SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 
-	
 	private Date momentoPedido;
 	private StatusPedido status;
 	
@@ -38,7 +37,7 @@ public class Pedido {
 		sb.append("Status do pedido: ");
 		sb.append(status + "\n");
 		sb.append("Cliente: ");
-		sb.append(cliente + "\n");
+		sb.append(cliente.toString() + "\n");
 		sb.append("Pedidos:\n");
 		for (PedidoItem item : itens) {
 			sb.append(item + "\n");
@@ -58,7 +57,7 @@ public class Pedido {
 	
 	public double total() {
 		double soma = 0.0;
-		for(PedidoItem x: itens) {
+		for(PedidoItem x: itens) {//para cada elemento X da lista itens
 			soma = soma + x.TotalPedido();
 		}
 		return soma;

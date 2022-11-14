@@ -14,7 +14,6 @@ public class PedidoItem {
 		this.produto = produto;
 	}
 	
-	
 	@Override
 	public String toString() {
 		return this.getProduto().getNome() 
@@ -31,7 +30,6 @@ public class PedidoItem {
 		return this.getPreco() * this.getQuantidade();
 		
 	}
-
 
 	public Integer getQuantidade() {
 		return quantidade;

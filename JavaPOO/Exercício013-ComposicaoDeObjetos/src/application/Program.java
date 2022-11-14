@@ -37,7 +37,7 @@ public class Program {
 		
 		Cliente cliente = new Cliente(name, email, birthDate);
 		
-		System.out.println("ENTRE COM OS DADOS DO PEDIDO:");
+		System.out.println("ENTRE COM O STATUS DO PEDIDO:");
 		System.out.print("Status: ");
 		//String StatusString  = entradaDados.next();
 		StatusPedido status = StatusPedido.valueOf(entradaDados.next());//valueOf para converter o string digitado para o valor definido no StatusPedido, ouseja, algum determinado lpa
