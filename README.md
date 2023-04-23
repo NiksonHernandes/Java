@@ -18,3 +18,6 @@ E ai, sentiu dificuldade em acompanhar as aulas anteriores? Se sua resposta foi 
 <br><br>
 
 Site da Oracle com as bibliotecas do JAVA: https://docs.oracle.com/javase/8/docs/api/
+
+O conteúdo da pasta JavaNelioAlves é do curso  <a href="https://www.udemy.com/course/java-curso-completo/learn/lecture/10565850#overview">Java COMPLETO 2023 Programação Orientada a Objetos + Projetos</a> da plataforma Udemy.
+ 
